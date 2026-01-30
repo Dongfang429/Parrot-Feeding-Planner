@@ -7,4 +7,5 @@ A Python tool for estimating daily feeding needs for companion parrots.
 
 Run locally with:
 python -m pip install streamlit
+
 python -m streamlit run ParrotHthy.py
